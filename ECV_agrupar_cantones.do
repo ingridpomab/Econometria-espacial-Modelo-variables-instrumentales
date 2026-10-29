@@ -1,4 +1,4 @@
-#AGRUPAR CIUDADES a CANTONES
+/AGRUPAR CIUDADES a CANTONES/
 
 tab ciudad
 label list(ciudad)
