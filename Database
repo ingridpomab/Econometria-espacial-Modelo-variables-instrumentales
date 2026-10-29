@@ -6,3 +6,9 @@ https://www.ecuadorencifras.gob.ec/documentos/web-inec/ECV/ECV_2015/
 #Nacimientos y defunciones en el año 2014 
 https://www.ecuadorencifras.gob.ec/nacidos-vivos-y-defunciones-fetales/
 https://www.ecuadorencifras.gob.ec/nacidos-vivos-y-defunciones-fetales/
+
+#Cálculo de Tasa cantonal Mortalidad Infantil
+#Di = Número de defunciones de niños y niñas menores de un año de edad de 2014
+#Ni = Número de nacidos vivos en 2014
+#Fórmula
+TMI=(Di/Ni)*1000
