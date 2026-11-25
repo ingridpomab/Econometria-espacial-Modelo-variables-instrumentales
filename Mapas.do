@@ -1,11 +1,4 @@
 
-GRAFICAS PROYECTO
-Nombre: Ingrid Poma
-
- 	                      *MODELO VARIABLES INSTRUMENTALES*  
-*Mortalidad infantil cantonal desde salarios y servicios de salud publica*
-
----------------------------------------------------------------------------------------
 *Directorios*
 
 local DIR = "C:\Users\Ingrid\Desktop\Visualizacion"  
