@@ -1,4 +1,4 @@
-# Evaluación cantonal de la mortalidad infantil en Ecuador, utilizando modelos de variables instrumentales
+# Evaluación cantonal de la mortalidad infantil en Ecuador: Modelo de variables instrumentales
 
 ## Resumen
 
@@ -107,4 +107,5 @@ Poma, I. Evaluación cantonal de la mortalidad infantil en Ecuador durante 2014,
 
 ## Licencia
 
+#Propiedad autora: Ingrid Poma
 *(opcional: MIT, CC-BY, etc.)*
