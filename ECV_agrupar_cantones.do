@@ -16,13 +16,6 @@ collapse (mean) servicio estadocivil salario discapacidad edad control empleo ag
 br
 
 
-
-GRAFICAS PROYECTO
-Nombre: Ingrid Poma
-
- 	                      *MODELO VARIABLES INSTRUMENTALES*  
-*Mortalidad infantil cantonal desde salarios y servicios de salud publica*
-
 ---------------------------------------------------------------------------------------
 *Directorios*
 
