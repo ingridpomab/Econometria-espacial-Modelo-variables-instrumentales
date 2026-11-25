@@ -1,10 +1,5 @@
 
-                          MODELO DE ENDOGENEIDAD
-*Reducir la endogeneidad en la tasa de mortalidad infantil Ecuador 2014*
---------------------------------------------------------------------------------
-
-import excel "C:\Users\Ingrid\Documents\Sexto ciclo\ECONOMETRIA INTERMEDIA\Unidad1\PROYECTO\Basedatos\BASEFINAL.xls", sheet("BASEFINAL") fir
-> strow
+#1. Importar excel
 
 ----------------------------------------------------------------------------------------
 *Graficos
