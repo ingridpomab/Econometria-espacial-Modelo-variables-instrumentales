@@ -57,7 +57,7 @@ MIᵢ = α0 + α1·Salarioᵢ + α2·Servicioᵢ + α3·Discapacidadᵢ + α4·E
 - Vivir en área rural incrementa 0.55 veces la probabilidad de mortalidad infantil frente al área urbana.
 - Las pruebas de endogeneidad (2SLS y LIML) permitieron reducir la TMI estimada en **59.8%**.
 
-## Conclusiones y recomendaciones de política
+## Conclusiones y recomendaciones
 
 Los resultados evidencian que la inversión pública en salud y educación no fue suficiente en 2014, especialmente en zonas rurales. Se recomienda:
 - Incrementar el presupuesto en salud y educación en zonas rurales.
@@ -68,13 +68,11 @@ Los resultados evidencian que la inversión pública en salud y educación no fu
 ## Estructura del repositorio
 
 ```
-├── ECV 2014/               # Base de la ECV 2013-2014 (csv)*
-├── Do/            # Códigos en R
-│   ├── 01_limpieza.R
-│   ├── 02_analisis_exploratorio.R
-│   ├── 03_modelo_iv.R          # 2SLS, LIML, GMM
-│   └── 04_resultados.R
-├── output/             # Tablas y gráficos (mapas cantonales, correlaciones)
+├── Database/               # Base de la ECV 2013-2014 (csv)*
+├── # Códigos en R
+│   ├── Agrupar.do
+│   ├── Modelo.do
+├── Mapas.do/             # Tablas y gráficos (mapas, correlaciones)
 ├── README.md
 ```
 *Provienen de la Encuesta de Condiciones de Vida (ECV) 2013-2014 del INEC.
@@ -107,5 +105,5 @@ Poma, I. Evaluación cantonal de la mortalidad infantil en Ecuador durante 2014,
 
 ## Licencia
 
-#Propiedad autora: Ingrid Poma
+#Propiedad de Ingrid Poma
 *(opcional: MIT, CC-BY, etc.)*
